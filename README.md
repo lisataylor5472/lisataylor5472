@@ -2,11 +2,6 @@
 <div align="center">
 This hub currently includes my projects from Turing School of Design, as well as some self study projects.<br>
 <br>
-It's intended to be a collection of my efforts. So not everything is tip-top. <br>
-If you dive deep you may see commit messages, pull request notes, and <br>
-code comments that seem like they were written by a madman. <br>
-Alas, it's just me giving it my best shot and having a little fun along the way. 
-<br><br>
 </div>
 
 ### Find out More About Me ::  
