@@ -1,8 +1,6 @@
-## Welcome! 
-
-### Get to Know Me ::  
+### Find out More About Me ::  
 - [LinkedIn](https://www.linkedin.com/in/thelisataylor/)
-- [My Personal Site](https://lisataylor.dev/) --- a work in progress
+- [Personal Site](https://lisataylor.dev/) --- a work in progress
 
 ### Some Coding Stats ::
 <div align="center">
