@@ -1,14 +1,20 @@
 ## Welcome 
 <div align="center">
 This hub currently includes my projects from Turing School of Design, as well as some self study projects.<br>
-<br>
 </div>
 
-### Find out More About Me ::  
-- [LinkedIn](https://www.linkedin.com/in/thelisataylor/)
-- [Personal Site](https://lisataylor.dev/) --- a work in progress
+### [My Additional Coding / Programming Practice] 
+  
+[Replit](https://replit.com/@LisaTaylor1) 
+  
 
-### Some Coding Stats ::
+
+### [Find out More About Me]  
+[LinkedIn](https://www.linkedin.com/in/thelisataylor/)
+
+[Personal Site](https://lisataylor.dev/) --- a work in progress
+
+### [Some Coding Stats]
 <div align="center">
   
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=lisataylor5472&show_icons=true&locale=en&layout=compact)
