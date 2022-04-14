@@ -5,7 +5,7 @@
 - Lover of video games and table top games. 
 - 'B-side' documentary addict 
 - Fan of Dune 
-- Will reference Captain Kirk and Spock, a lot...
+- Even bigger fan of Captain Kirk's fight style gifs...
 <div align='center'>
   
 ![Kirk throws pillow](https://24.media.tumblr.com/0d4d4e653dae70e1e3f8617330b68fb8/tumblr_n4hm4j58n11s63bb0o1_400.gif)
