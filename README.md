@@ -14,10 +14,10 @@
 
 ### [More About Me]  
 
-- [<img alt="LinkedIn" width="50px" src="https://img.icons8.com/nolan/64/linkedin.png" />](https://www.linkedin.com/in/thelisataylor/)
+[<img alt="LinkedIn" width="50px" src="https://img.icons8.com/nolan/64/linkedin.png" />](https://www.linkedin.com/in/thelisataylor/)
 LinkedIn
 
-- [<img alt="LinkedIn" width="50px" src="https://img.icons8.com/nolan/64/robot-2.png" />](https://www.linkedin.com/in/thelisataylor/)
+[<img alt="LinkedIn" width="50px" src="https://img.icons8.com/nolan/64/robot-2.png" />](https://www.linkedin.com/in/thelisataylor/)
 :: LisaTaylor.dev :: (my personal site)
 
   
