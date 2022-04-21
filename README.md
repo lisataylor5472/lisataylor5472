@@ -1,5 +1,5 @@
 ## <div align="center">Hey! I'm Lisa.</div>
-### <div align="center">Critical Thinker - Up for a Challenge - Fun to work with</div>
+### <div align="center">Communicative - Hard Working - Hilarious</div>
 
 - Backend Engineer - but currently dabbling in Full Stack in my 'free' time. 
 - Lover of video games and table top games. 
