@@ -1,5 +1,4 @@
 ## <div align="center">Hey! I'm Lisa.</div>
-### <div align="center">Communicative - Hard Working - Hilarious</div>
 
 - Backend Engineer - but currently dabbling in Full Stack in my 'free' time. 
 - Lover of video games and table top games. 
@@ -17,9 +16,6 @@
 [<img alt="LinkedIn" width="50px" src="https://img.icons8.com/nolan/64/linkedin.png" />](https://www.linkedin.com/in/thelisataylor/)
 LinkedIn
 
-
-  
-- [Replit](https://replit.com/@LisaTaylor1) 
 
 
 ### [Technical Skills]
